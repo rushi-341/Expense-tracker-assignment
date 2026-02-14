@@ -141,10 +141,11 @@ Transactions Collection
   "updatedAt": "Date"
 }
 
+
 📂 Project Structure
 Backend
 backend/
-│__utils/
+│
 ├── config/
 ├── controllers/
 ├── middleware/
@@ -165,7 +166,7 @@ frontend/
 
 ⚙️ Setup Instructions
 Clone Repository
-git clone 
+git clone https://github.com/your-username/bellcorp-expense-tracker.git
 cd bellcorp-expense-tracker
 
 Backend Setup
