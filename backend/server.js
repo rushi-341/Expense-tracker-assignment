@@ -23,7 +23,7 @@ if (!process.env.MONGO_URI) {
 
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: "https://resplendent-khapse-f0c270.netlify.app",
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
